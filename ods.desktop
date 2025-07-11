@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Operation Dessert Storm
+Version=1.0
+Exec=/opt/games/DessertStorm/DessertStorm
+Comment=Welcome, testers! We know you're excited to play!
+Icon=/usr/share/pixmaps/ods.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Game;

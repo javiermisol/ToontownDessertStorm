@@ -1,0 +1,8 @@
+Package: DessertStorm
+Version: 1.0
+Maintainer: ODS Teams
+Homepage: https://opdessertstorm.com/
+Architecture: amd64
+Priority: optional
+Description: Operation Dessert Storm
+ Welcome, testers! We know you're excited to play! Download now and head on into the world of Toontown.
